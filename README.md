@@ -7,4 +7,4 @@
 - 3D Printing
 - networking
 
-![LeoArs06's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoArs06&show_icons=true&theme=tokyonight)
+![LeoArs06's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoArs06&show_icons=true&theme=shadow_red)
