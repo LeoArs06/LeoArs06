@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Skilled in C, C++, Arduino, Python, Java, and a bit of Assembly.
+- Skilled in C, C++, Arduino, Python, Java, and a little bit of Assembly.
 - electronics
 - Enjoy DIY projects
 - Ham radio enthusiast callsign: "cooming soon"
