@@ -3,7 +3,7 @@
 - Skilled in C, C++, Arduino, Python, Java, and a little bit of Assembly.
 - electronics
 - Enjoy DIY projects
-- Ham radio enthusiast callsign: "cooming soon"
+- Ham radio enthusiast callsign: "IU3QWS"
 - 3D Printing
 - networking
 
