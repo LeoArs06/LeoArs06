@@ -6,5 +6,3 @@
 - Ham radio operator [IU3QWS](https://www.qrz.com/db/IU3QWS)
 - 3D Printing
 - networking
-
-![LeoArs06's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoArs06&show_icons=true&theme=github_dark_dimmed)
